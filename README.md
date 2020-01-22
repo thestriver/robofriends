@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. It was built using React to display a number of fetched robot usernames and details. 
+Thanks for checking out this front-end coding challenge. It was built using React to display a number of fetched robot usernames and details. Data was fetched from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) and [Robohash](robohash.org) APIs. 
 
 To run the project:
 
