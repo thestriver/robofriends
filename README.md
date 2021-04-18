@@ -1,4 +1,4 @@
-# ZTM Complete Web Developer Bootcamp - Robot Friends
+#  Robot Friends
 
 ![Screenshot](./screenshot.png)
 
