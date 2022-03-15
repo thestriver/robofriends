@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import CardList from '../components/CardList'
-// import { robots } from './robots'; not needed after we want to fetch from another website
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import ErrorBoundry from '../components/ErrorBoundry'
